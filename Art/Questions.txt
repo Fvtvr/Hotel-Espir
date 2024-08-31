@@ -1,0 +1,8 @@
+How fancy?
+
+Questions for Felix:
+
+Should doors be apart of the modules, or only the door frames? -> Same question regarding stuff like curtains
+What does the texturing/uv process look like? -> Is it all in blender or do you texture in Unity?
+How many modules do you normally need, for this project?
+
